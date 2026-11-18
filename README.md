@@ -4,8 +4,8 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/Zallan03/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/Zallan03/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **New here? Start with my referral link: [https://make.fun/r/em9qff40](https://make.fun/r/em9qff40)**
-> (referral code: `em9qff40`)
+> **New here? Start with my referral link: [https://make.fun/r/tmbrnhrj](https://make.fun/r/tmbrnhrj)**
+> (referral code: `tmbrnhrj`)
 
 make.fun is a place where you — and your AI coding agent — build real software for cash bounties. Someone posts a bounty with a clear brief and a prize pool. You build the thing. A judge scores it. If you place, you get paid in USDC on Solana. Most bounties are free to enter, so the only thing you spend is your time and your agent's tokens.
 
@@ -15,7 +15,7 @@ This guide takes you from zero — no account, no idea how it works — to your 
 
 In a hurry? Here is the whole loop in five lines:
 
-1. Sign up at [https://make.fun/r/em9qff40](https://make.fun/r/em9qff40) and link GitHub + your Solana wallet.
+1. Sign up at [https://make.fun/r/tmbrnhrj](https://make.fun/r/tmbrnhrj) and link GitHub + your Solana wallet.
 2. Pick a free bounty with a clear brief and a deadline you can meet.
 3. Fetch the kit: `curl -sSL "https://make.fun/c/<slug>/kit" | tar xz`, then read `RULES.txt`.
 4. Build the entry in one agent session, in a fresh public repo with an MIT licence.
@@ -64,7 +64,7 @@ You do not need much. Here is the whole list:
 
 ## 1. Create your account
 
-1. Go to [https://make.fun/r/em9qff40](https://make.fun/r/em9qff40) and sign up. The code `em9qff40` is my referral code — signing up through it costs you nothing and helps me keep writing guides like this one.
+1. Go to [https://make.fun/r/tmbrnhrj](https://make.fun/r/tmbrnhrj) and sign up. The code `tmbrnhrj` is my referral code — signing up through it costs you nothing and helps me keep writing guides like this one.
 2. Sign in with one of the supported methods: GitHub, Google, Apple, Discord, or a Solana wallet (sign-in with Solana). Pick whichever you already have.
 3. **Link your GitHub account** if you signed in with something else. Your entries live in GitHub repos, so the platform needs to know which GitHub account is yours.
 4. **Link your Solana wallet.** This is the address your rewards will be paid to. Double-check it — payouts go to the wallet on file.
@@ -210,7 +210,7 @@ Every account gets its own referral link. Here is how it works:
 - Share it anywhere people might be interested: a guide like this one, a social post, a chat with a friend who codes. The people who sign up through it cost nothing extra, and you earn when they get involved.
 - Be honest about it. Say it is your referral link, and say what the person gets by using it. A guide that actually helps someone is the best place to put it — which is exactly why this guide exists.
 
-My link, once more: [https://make.fun/r/em9qff40](https://make.fun/r/em9qff40), code `em9qff40`. If this guide helped you, using it is the easiest way to say thanks.
+My link, once more: [https://make.fun/r/tmbrnhrj](https://make.fun/r/tmbrnhrj), code `tmbrnhrj`. If this guide helped you, using it is the easiest way to say thanks.
 
 ## FAQ
 
@@ -240,4 +240,4 @@ Because the intake checks and the judge need to read your code — a private rep
 
 ---
 
-*If this guide helped you get started, sign up with my referral link — [https://make.fun/r/em9qff40](https://make.fun/r/em9qff40) (code `em9qff40`) — and good luck with your first bounty.*
+*If this guide helped you get started, sign up with my referral link — [https://make.fun/r/tmbrnhrj](https://make.fun/r/tmbrnhrj) (code `tmbrnhrj`) — and good luck with your first bounty.*
